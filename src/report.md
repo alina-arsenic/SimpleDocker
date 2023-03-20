@@ -10,7 +10,9 @@
 Вывод информации об образе через `docker inspect`:
 
 ![](pics/1.2.png)
+
 ![](pics/1.3.png)
+
 ![](pics/1.4.png)
 
 
@@ -120,6 +122,7 @@
 Веб-странички после добавления проксирования /status:
 
 ![](pics/4.4.png)
+
 ![](pics/4.5.png)
 
 ## Part 5. Dockle
@@ -136,7 +139,7 @@
 
 ![](pics/5.3.png)
 
-FATAL WARN больше нет.
+FATAL и WARN больше нет.
 
 ## Part 6. Базовый Docker Compose
 
